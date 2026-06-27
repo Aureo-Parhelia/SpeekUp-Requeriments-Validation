@@ -1,0 +1,1 @@
+# SpeekUp-Requeriments-Validation
